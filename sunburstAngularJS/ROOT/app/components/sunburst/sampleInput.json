@@ -1,0 +1,84 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "01 Certain infectious or parasitic diseases",
+            "children": [
+                {
+                    "name": "Gastroenteritis or colitis of infectious origin",
+                    "children": [
+                        {
+                            "name": "Bacterial intestinal infections",
+                            "children": [
+                                {
+                                    "name": "1A00 Cholera",
+                                    "children": [
+                                        {
+                                            "name": "H00110 Cholera"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "1A01 Intestinal infection due to other Vibrio",
+                                    "children": [
+                                        {
+                                            "name": "H00307 Vibrio parahaemolyticus infection"
+                                        },
+                                        {
+                                            "name": "H00308 Vibrio vulnificus infection"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name":"02 Neoplasms",
+            "children":[
+            {
+                "name":"Neoplasms of brain or central nervous system",
+                "children":[
+                {
+                    "name":"2A00  Primary neoplasms of brain",
+                    "children":[
+                    {
+                        "name":"H00042  Glioma"
+                    },
+                    {
+                        "name":"H01692  Subependymal giant cell astrocytoma"
+                    },
+                    {
+                        "name":"H01667  Medulloblastoma"
+                    },
+                    {
+                        "name":"H01007  Choroid plexus papilloma"
+                    }
+                    ]
+                },
+                {
+                    "name":"2A01  Primary neoplasms of meninges",
+                    "children":[
+                    {
+                        "name":"H01556  Meningioma"
+                    }
+                    ]
+                },
+                {
+                    "name":"2A02  Primary neoplasm of spinal cord, cranial nerves or remaining parts of central nervous system",
+                    "children":[
+                    {
+                        "name":"H00043  Neuroblastoma"
+                    }
+                    ]
+                },
+                {
+                    "name":"2A0Z  Other and unspecified neoplasms of brain or central nervous system"
+                }
+                ]
+            }]
+        }
+    ]
+}
